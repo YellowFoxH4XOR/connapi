@@ -27,10 +27,15 @@ Wrapper to Use all Public Apis with single call methods
 * Documentation: https://connapi.readthedocs.io.
 
 
-Features
---------
 
-* TODO
+APIS Implemented
+----------------
+
+*  AGIFY -( https://agify.io/ )
+
+TODO
+----
+
 
 Credits
 -------
