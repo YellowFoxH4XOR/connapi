@@ -1,6 +1,4 @@
-from configparser import ConfigParser
-
 class Linker():
-    config = ConfigParser()
-    config.read('connapi/data/sites.cfg')
-    url_agify = config.get('AGIFY', 'url')
+    url_agify = "https://api.agify.io?"
+    # NASA
+    url_apod = "https://api.nasa.gov/planetary/apod?"
