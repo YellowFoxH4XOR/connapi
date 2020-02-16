@@ -1,6 +1,6 @@
 import requests
 import json
-from data import Linker
+from connapi.data import Linker
 
 class Agify():
     def get_age(datadict,country_code=None,api_key=None):

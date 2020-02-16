@@ -1,2 +1,2 @@
 """Main module."""
-from api.agify import Agify
+from connapi.api.agify import Agify
