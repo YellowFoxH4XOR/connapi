@@ -7,3 +7,4 @@ class Linker():
     url_nationalize = "https://api.nationalize.io?"
     # NASA
     url_apod = "https://api.nasa.gov/planetary/apod?"
+    url_neows = "https://api.nasa.gov/neo/rest/v1/feed?"
